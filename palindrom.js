@@ -11,6 +11,7 @@ function checkPalindrom(string) {
   if (bag == string) {
     return "Palindrom"
   } else {
+return
    
   }
 }
