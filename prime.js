@@ -11,6 +11,6 @@ function prime(num) {
   if (factor == 2) {
     return "Prime"
   } else {
-    
+    return
   }
 }
